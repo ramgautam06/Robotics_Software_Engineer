@@ -10,3 +10,6 @@ Let’s summarize what you should do in this project to create a simulation worl
 4. Import at least one model from the Gazebo online library and implement it in your existing Gazebo world.
 5. Write a C++ World Plugin to interact with your world. Your code should display “Welcome to ’s World!” message as soon as you launch the Gazebo world file.
 6. These tasks are just the basic requirements for you to pass the project! Feel free to have fun designing and importing multiple models.
+
+**Gazebo World**
+![image](https://user-images.githubusercontent.com/43186153/120394072-ec7d8f00-c300-11eb-86a2-680f70f920aa.png)
