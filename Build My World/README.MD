@@ -18,4 +18,4 @@ Let’s summarize what you should do in this project to create a simulation worl
 
 ![image](https://user-images.githubusercontent.com/43186153/120395167-8e51ab80-c302-11eb-9202-f269fdaf431a.png)
 
-**RUN INSTRUCTIONS**
+**Run Instructions**
