@@ -15,17 +15,6 @@ Let’s summarize what you should do in this project to create a simulation worl
 ![image](https://user-images.githubusercontent.com/43186153/120394072-ec7d8f00-c300-11eb-86a2-680f70f920aa.png)
 
 **Directory Structure **
-.Project1                    # Build My World Project 
-├── model                     # Model files 
-│   ├── Building
-│   │   ├── model.config
-│   │   ├── model.sdf
-│   ├── HumaniodRobot
-│   │   ├── model.config
-│   │   ├── model.sdf
-├── script                         # Gazebo World plugin C++ script      
-│   ├── welcome_message.cpp
-├── world                          # Gazebo main World containing models. It contains both models, Building and HumaniodRobot 
-│   ├── Udacity.world
-├── CMakeLists.txt                 # Link libraries 
-└──   
+![image](https://user-images.githubusercontent.com/43186153/120395167-8e51ab80-c302-11eb-9202-f269fdaf431a.png)
+
+
