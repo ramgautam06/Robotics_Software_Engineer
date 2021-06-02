@@ -32,7 +32,7 @@ Let’s summarize what you should do in this project to create a simulation worl
     ├── CMakeLists.txt                 # This will link to all all the libraries 
     └──  
     
-    ![image](https://user-images.githubusercontent.com/43186153/120551711-51e68400-c3c4-11eb-94b8-13f5db9f6ac7.png)
+    
 
 
 **Run Instructions**
