@@ -17,4 +17,16 @@ Let’s summarize what you should do in this project to create a simulation worl
 
 **Directory Structure**
 
+
 **Run Instructions**
+
+1. git clone 
+2. cd Robotics_Software_Engineer/Build_My_World
+3. mkdir build 
+4. cd build
+5. cmake ../
+6. cmake 
+7. export plugin to build directory
+8. cd ..
+9. cd world 
+10. gazebo UdacityOffice.World
