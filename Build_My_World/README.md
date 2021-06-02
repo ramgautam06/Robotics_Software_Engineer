@@ -17,29 +17,29 @@ Let’s summarize what you should do in this project to create a simulation worl
 
 **Directory Structure**
     .Build_My_World                    # Build My World Project. All the project work is inside this folder.
-    ├── model                          # Model files 
+    ├── model                          # Two models are stored here, Building and HumanoidRobot. 
     │   ├── Building
     │   │   ├── model.config
     │   │   ├── model.sdf
     │   ├── HumanoidRobot
     │   │   ├── model.config
     │   │   ├── model.sdf
-    ├── script                         # Gazebo World plugin C++ script      
+    ├── script                         # Gazebo World plugin C++ script. This script will print "Welcome to Ram Gautam's World".      
     │   ├── welcome_message.cpp
-    ├── world                          # Gazebo main World containing models 
+    ├── world                          # Gazebo main World containing models, Building and HumanoidRobot
     │   ├── UdacityOffice.world
-    ├── CMakeLists.txt                 # Link libraries 
+    ├── CMakeLists.txt                 # This will link to all all the libraries 
     └──  
 
 **Run Instructions**
 
-1. git clone 
+1. git clone https://github.com/ramgautam06/Robotics_Software_Engineer.git
 2. cd Robotics_Software_Engineer/Build_My_World
 3. mkdir build 
 4. cd build
 5. cmake ../
-6. cmake 
-7. export plugin to build directory
+6. make 
+7. export GAZEBO_PLUGIN_PATH=${GAZEBO_PLUGIN_PATH}:/home/..... # This need to be the path of your build directory
 8. cd ..
 9. cd world 
 10. gazebo UdacityOffice.World
