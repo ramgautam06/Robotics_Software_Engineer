@@ -16,7 +16,20 @@ Let’s summarize what you should do in this project to create a simulation worl
 
 
 **Directory Structure**
-
+    .Build_My_World                    # Build My World Project. All the project work is inside this folder.
+    ├── model                          # Model files 
+    │   ├── Building
+    │   │   ├── model.config
+    │   │   ├── model.sdf
+    │   ├── HumanoidRobot
+    │   │   ├── model.config
+    │   │   ├── model.sdf
+    ├── script                         # Gazebo World plugin C++ script      
+    │   ├── welcome_message.cpp
+    ├── world                          # Gazebo main World containing models 
+    │   ├── UdacityOffice.world
+    ├── CMakeLists.txt                 # Link libraries 
+    └──  
 
 **Run Instructions**
 
