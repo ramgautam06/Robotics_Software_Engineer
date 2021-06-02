@@ -12,6 +12,7 @@ Let’s summarize what you should do in this project to create a simulation worl
 6. These tasks are just the basic requirements for you to pass the project! Feel free to have fun designing and importing multiple models.
 
 **Gazebo World**
+![image](https://user-images.githubusercontent.com/43186153/120549291-66754d00-c3c1-11eb-8bd8-daff1d9486a1.png)
 
 
 **Directory Structure**
