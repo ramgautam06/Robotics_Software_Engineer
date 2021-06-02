@@ -47,3 +47,6 @@ Let’s summarize what you should do in this project to create a simulation worl
 8. cd ..
 9. cd world 
 10. gazebo UdacityOffice.World
+
+**Summary**
+In this project two models,HumannoidRobot and Building, were created for the UdacityOffice world. The Gazebo world creates the welcome message using plugin and which can be printed on terminal.
